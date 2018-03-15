@@ -152,7 +152,7 @@ header .header_bar .login_bar .registration a {
     text-align: center;
     background: #fff;
 }
-.main  .banner p a {
+.main .banner p a {
     display: block;
     width: 100%;
 }
@@ -277,7 +277,7 @@ header .header_bar .login_bar .registration a {
     height: 0;
     clear: both;
     visibility: hidden;
-    }
+}
 .content section.ranking ol{
     margin: -8px 0 0 -18px;
     width: 804px;
@@ -340,8 +340,6 @@ img {
     max-width: 100%;
     vertical-align: bottom;
 }
-
-
 .content section.ranking ol li .profile {
     padding: 10px 10px 10px 10px;
 }
@@ -416,10 +414,6 @@ img {
 	border: 1px #1e78ad solid;
 	border-radius: 2px;
 }
-
-
-
-
 section.favorite {
   width: 780px;
 }
@@ -500,10 +494,6 @@ section.favorite {
     line-height: 1.4;
     margin: 0px 0px 20px 0px;
 }
-
-
-
-
 .content section.favorite ol li a .container .main_container .user .img {
     width: 40px;
     float: left;
@@ -533,8 +523,6 @@ section.favorite {
     clear: both;
     visibility: hidden;
 }
-
-
 .content section.keyword {
     width: 780px;
     height: 332px;
@@ -957,7 +945,6 @@ section.favorite {
     padding: 10px 0px 5px 0;
 }
 
-
 .sidebar section.trend_keyword {
     width: 180px;
     height: 210px;
@@ -1008,11 +995,6 @@ max-width: 100%;
     width: 465px;
     margin: 0 auto 0 auto;
 }
-
-
-
-
-
 
 .app_info {
     width: 100%;
